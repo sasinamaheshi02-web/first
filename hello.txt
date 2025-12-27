@@ -1,1 +1,7 @@
 My first GitHub project 🚀
+
+
+Day 2:
+- Practiced Git workflow
+- Edited README file
+- Learned commit and push

@@ -1,0 +1,2 @@
+Today I learned how Git tracks new vs modified files.
+I also learned how git pull works.

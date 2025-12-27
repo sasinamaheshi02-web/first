@@ -1,0 +1,2 @@
+A Git branch is a safe copy of the project.
+Changes in a branch do not affect main.
